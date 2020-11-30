@@ -1,3 +1,5 @@
+;mini project for mpmc - ajay prakash and vikaash karthick
+
 ORG 100h ;This is a request for the OS to give up control
 mov cx, 0
 
